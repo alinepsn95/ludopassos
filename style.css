@@ -377,3 +377,6 @@ img{max-width:100%;display:block}
   .hero-card img,.showcase-image{height:260px}
   .topbar{font-size:.92rem}
 }
+body {
+  text-transform: capitalize;
+}
